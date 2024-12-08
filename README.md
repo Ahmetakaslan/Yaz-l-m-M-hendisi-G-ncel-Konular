@@ -28,7 +28,7 @@ Bu uygulamayı kullanabilmek için **OverlyApp**'i mobil cihazınıza indirmeniz
 - **Trello** (Proje yönetimi)
 
 ## Dokümanlar
-Projemin detaylı dokümantasyonuna [**buradan ulaşabilirsiniz**](https://example.com/docs).  
+Projemin detaylı dokümantasyonuna [**buradan ulaşabilirsiniz**]([https://example.com/docs](https://github.com/Ahmetakaslan/Yazilim-Muhendisi-Guncel-Konular/tree/main/Belgeler)).  
 
 ## Trello
 Projemin haftalık ilerlemesi ve iş akışı Trello üzerinden yönetilmiştir. Gelişmeleri ve tamamlanan görevleri [**Trello panosunda**](https://trello.com/b/9bb7XvRJ/yazilim-muhendisi-guncel-konular) takip edebilirsiniz.
