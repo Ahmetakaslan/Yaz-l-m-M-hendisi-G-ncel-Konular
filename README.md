@@ -13,8 +13,9 @@ Proje, **OverlyApp** gibi bir uygulama kullanılarak geliştirilmiştir. Uygulam
 Bu uygulamayı kullanabilmek için **OverlyApp**'i mobil cihazınıza indirmeniz gerekmektedir. Sonrasında, projenin web sitesine giriş yaparak kayıt olmalı ve ekranda görünen 2D görselleri **OverlyApp** üzerinden taratarak artırılmış gerçeklik deneyimini başlatabilirsiniz.
 
 ## Kullanmak için
-Android için => [**buradan ulaşabilirsiniz**](https://play.google.com/store/apps/details?id=com.Overly.Cloud)).  
-Apple için => [**buradan ulaşabilirsiniz**](https://apps.apple.com/lk/app/overly/id917343353)).  
+Android için => [**buradan ulaşabilirsiniz**](https://play.google.com/store/apps/details?id=com.Overly.Cloud).  
+Apple için => [**buradan ulaşabilirsiniz**](https://apps.apple.com/lk/app/overly/id917343353).  
+indirin ve resmi taratın.
 
 ## Proje Özellikleri
 - AR (Artırılmış Gerçeklik) desteği ile etkileşimli labirent oyunu
