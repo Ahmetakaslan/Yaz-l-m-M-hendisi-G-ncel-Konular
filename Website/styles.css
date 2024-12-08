@@ -1,0 +1,96 @@
+/* Genel Ayarlar */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #333;
+  line-height: 1.6;
+  background: url('background.jpg') no-repeat center center/cover;
+  min-height: 100vh;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.section {
+  padding: 20px;
+  text-align: center;
+}
+
+/* Tabbar */
+.tabbar {
+  background: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 10px 20px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+.tabbar ul {
+  display: flex;
+  justify-content: space-around;
+}
+.tabbar li a {
+  color: white;
+  font-weight: bold;
+}
+
+/* İçerik */
+.content {
+  background: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Hakkında */
+.container {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+}
+.card {
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+.icon {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+.orange {
+  color: orange;
+}
+
+/* Giriş/Kayıt Ol */
+.form input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
+.btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+}
+.login {
+  background: #007bff;
+}
+.register {
+  background: #28a745;
+}
