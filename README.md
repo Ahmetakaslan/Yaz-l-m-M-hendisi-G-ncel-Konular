@@ -45,7 +45,7 @@ Projemin haftalık ilerlemesi ve iş akışı Trello üzerinden yönetilmiştir.
 Projemin resmi web sitesi için [**buraya tıklayın**](https://ahmetakaslan.github.io/Yazilim-Muhendisi-Guncel-Konular/). Web sitesinde, AR deneyimini başlatmak için gerekli talimatları ve görselleri bulabilirsiniz.
 
 ## YouTube Videosu
-Projemin sunumu ve nasıl çalıştığıyla ilgili detaylı videoya [**YouTube üzerinden erişebilirsiniz**](https://youtube.com/examplelink).
+Projemin sunumu ve nasıl çalıştığıyla ilgili detaylı videoya [**YouTube üzerinden erişebilirsiniz**](https://www.youtube.com/watch?si=pj_XqYPQL-97v1F0&v=8j0f-Hf6O7s&feature=youtu.be).
 
 ## Kurulum ve Başlangıç
 Projenin çalışabilmesi için aşağıdaki adımları takip edebilirsiniz:
