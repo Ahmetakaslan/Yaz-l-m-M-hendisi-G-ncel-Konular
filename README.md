@@ -59,7 +59,7 @@ Projenin çalışabilmesi için aşağıdaki adımları takip edebilirsiniz:
 Eğer bu projeye katkıda bulunmak isterseniz, lütfen önce **issues** sekmesinde bir öneri paylaşın ya da yeni bir **pull request** gönderin.
 
 ## İletişim
-Proje ile ilgili sorularınız varsa, [Ahmet Akaslan](mailto:ahmet.akaslan@example.com) ile iletişime geçebilirsiniz.
+Proje ile ilgili sorularınız varsa, [Ahmet Akaslan](akaslan47yazilim@gmail.com) ile iletişime geçebilirsiniz.
 
 ---
 
