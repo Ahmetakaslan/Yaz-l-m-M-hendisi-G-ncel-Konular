@@ -42,7 +42,7 @@ Projemin detaylı dokümantasyonuna [**buradan ulaşabilirsiniz**]([https://exam
 Projemin haftalık ilerlemesi ve iş akışı Trello üzerinden yönetilmiştir. Gelişmeleri ve tamamlanan görevleri [**Trello panosunda**](https://trello.com/b/9bb7XvRJ/yazilim-muhendisi-guncel-konular) takip edebilirsiniz.
 
 ## WebSite Linki
-Projemin resmi web sitesi için [**buraya tıklayın**](https://example.com). Web sitesinde, AR deneyimini başlatmak için gerekli talimatları ve görselleri bulabilirsiniz.
+Projemin resmi web sitesi için [**buraya tıklayın**](https://ahmetakaslan.github.io/Yazilim-Muhendisi-Guncel-Konular/). Web sitesinde, AR deneyimini başlatmak için gerekli talimatları ve görselleri bulabilirsiniz.
 
 ## YouTube Videosu
 Projemin sunumu ve nasıl çalıştığıyla ilgili detaylı videoya [**YouTube üzerinden erişebilirsiniz**](https://youtube.com/examplelink).
