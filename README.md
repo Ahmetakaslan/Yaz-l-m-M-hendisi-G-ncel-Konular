@@ -15,7 +15,10 @@ Bu uygulamayı kullanabilmek için **OverlyApp**'i mobil cihazınıza indirmeniz
 ## Kullanmak için
 Android için => [**buradan ulaşabilirsiniz**](https://play.google.com/store/apps/details?id=com.Overly.Cloud).  
 Apple için => [**buradan ulaşabilirsiniz**](https://apps.apple.com/lk/app/overly/id917343353).  
-indirin ve resmi taratın.
+indirin ve bu resmi taratın.
+
+<img src="https://github.com/user-attachments/assets/fc78d0d5-2580-4541-886e-00a33f1b122f" alt="Açıklama" width="300" height="300">
+
 
 ## Proje Özellikleri
 - AR (Artırılmış Gerçeklik) desteği ile etkileşimli labirent oyunu
