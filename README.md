@@ -23,8 +23,7 @@ Android için =>
 
 
 indirin ve bu resmi taratın.
-
-<img src="https://github.com/user-attachments/assets/fc78d0d5-2580-4541-886e-00a33f1b122f" alt="Açıklama" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/7a1a68f4-7e2a-4566-90b8-63601b1dcfcd" alt="Açıklama" width="500" height="500">
 
 
 ## Proje Özellikleri
