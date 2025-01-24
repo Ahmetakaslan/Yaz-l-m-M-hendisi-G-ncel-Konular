@@ -66,7 +66,7 @@ Projemin sunumu ve nasıl çalıştığıyla ilgili detaylı videoya [**YouTube 
 ## Kurulum ve Başlangıç
 Projenin çalışabilmesi için aşağıdaki adımları takip edebilirsiniz:
 
-1. **OverlyApp** uygulamasını mobil cihazınıza indirin.
+1. **Apk Uygulamamızı**  mobil cihazınıza indirin.
 2. Bu projeyi [GitHub'dan](https://github.com/ahmetakaslan/ARLabirentUygulaması) klonlayın.
 3. Web sitesine giriş yaparak AR deneyimini başlatın.
 4. Mobil cihaz üzerinden **App** ile tarama işlemini gerçekleştirin.
