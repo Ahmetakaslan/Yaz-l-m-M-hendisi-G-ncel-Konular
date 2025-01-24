@@ -14,7 +14,7 @@ Android için =>
 <img src="https://github.com/user-attachments/assets/60c6121d-293b-4366-ba83-f87ddc127c93" width="500" height="500" alt="Görsel Açıklaması">
 
 ## Direkt indirmek için buttona tıklayabilirsiniz
-[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/KULLANICI_ADI/REPO_ADI/releases/download/VERSIYON/DOSYA_ADI.apk)
+[İndir](https://github.com/Ahmetakaslan/Yazilim-Muhendisi-Guncel-Konular/releases/download/V1.1/GuncelKonularProje.apk)
 
 indirin ve bu resmi taratın.
 
