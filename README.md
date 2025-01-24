@@ -6,18 +6,16 @@
 **AR Labirent Uygulaması**
 
 ## Proje Açıklaması
-Bu proje, artırılmış gerçeklik (AR) kullanarak bir labirent oyununu oynanabilir hale getiren bir uygulamadır. Kullanıcı, AR cihazını kullanarak gerçek dünyadaki bir ortamda sanal objelerle etkileşime girer ve labirent içindeki hedeflere doğru ilerler. Uygulama, mobil cihaz üzerinde AR desteği sunan yazılımlar aracılığıyla çalışmaktadır. Kullanıcı, uygulama içindeki talimatları takip ederek engelleri aşmalı ve çıkışı bulmalıdır.
-
-Proje, **OverlyApp** gibi bir uygulama kullanılarak geliştirilmiştir. Uygulama kullanıcıları, AR üzerinden interaktif olarak oyun seviyelerini geçebilir. Oyuncular, belirtilen yol boyunca topu hareket ettirerek labirentten çıkmaya çalışırlar.
-
-Bu uygulamayı kullanabilmek için **OverlyApp**'i mobil cihazınıza indirmeniz gerekmektedir. Sonrasında, projenin web sitesine giriş yaparak kayıt olmalı ve ekranda görünen 2D görselleri **OverlyApp** üzerinden taratarak artırılmış gerçeklik deneyimini başlatabilirsiniz.
+Bu proje, artırılmış gerçeklik (AR) kullanarak bir labirent oyununu oynanabilir hale getiren bir uygulamadır. Kullanıcı, AR cihazını kullanarak gerçek dünyadaki bir ortamda sanal objelerle etkileşime girer ve labirent içindeki hedeflere doğru ilerler. Uygulama, Unity ve Vuforia SDK kullanılarak geliştirilmiş olup, mobil cihazlar üzerinde AR deneyimi sunmaktadır. Kullanıcı, marker'ı tarayarak üç farklı zorluk seviyesindeki labirentleri görüntüleyebilir ve "Sonraki" butonu ile labirentler arasında geçiş yapabilir.
 
 ## Kullanmak için
 ## Qr Taratabilirsiniz
+Android için => 
 <img src="https://github.com/user-attachments/assets/60c6121d-293b-4366-ba83-f87ddc127c93" width="500" height="500" alt="Görsel Açıklaması">
 
-Android için => [**buradan ulaşabilirsiniz**](https://play.google.com/store/apps/details?id=com.Overly.Cloud).  
-Apple için => [**buradan ulaşabilirsiniz**](https://apps.apple.com/lk/app/overly/id917343353).  
+## Direkt indirmek için buttona tıklayabilirsiniz
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/KULLANICI_ADI/REPO_ADI/releases/download/VERSIYON/DOSYA_ADI.apk)
+
 indirin ve bu resmi taratın.
 
 <img src="https://github.com/user-attachments/assets/fc78d0d5-2580-4541-886e-00a33f1b122f" alt="Açıklama" width="300" height="300">
