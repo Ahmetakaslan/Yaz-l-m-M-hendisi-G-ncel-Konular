@@ -24,7 +24,7 @@ Android için =>
 
 indirin ve bu resmi taratın.
 <br>
-## Eğer resim boyutundan dolayı etkili çıkmıyorsa buttona tıklayıp yeni sekmede açabilirsiniz.
+## Eğer resim boyutundan dolayı etkili çalışmıyorsa buttona tıklayıp resmi yeni sekmede açabilirsiniz.
 <br>
 <a href="https://github.com/user-attachments/assets/7a1a68f4-7e2a-4566-90b8-63601b1dcfcd" target="_blank">
     <img src="https://img.shields.io/badge/Resmi%20Aç-Göster-blue?style=for-the-badge&logo=google-chrome" alt="Resmi Göster" width="250" height="70">
