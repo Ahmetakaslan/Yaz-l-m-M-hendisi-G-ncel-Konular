@@ -23,7 +23,14 @@ Android için =>
 
 
 indirin ve bu resmi taratın.
+<br>
+## Eğer resim boyutundan dolayı etkili çıkmıyorsa buttona tıklayıp yeni sekmede açabilirsiniz.
+<br>
+<button onclick="window.open('https://github.com/user-attachments/assets/7a1a68f4-7e2a-4566-90b8-63601b1dcfcd', '_blank')">Resmi Aç</button>
+<br>
 <img src="https://github.com/user-attachments/assets/7a1a68f4-7e2a-4566-90b8-63601b1dcfcd" alt="Açıklama" width="500" height="500">
+
+
 
 
 ## Proje Özellikleri
