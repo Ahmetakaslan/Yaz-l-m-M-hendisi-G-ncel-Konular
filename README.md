@@ -33,6 +33,7 @@ indirin ve bu resmi taratın.
 - Mobil cihazlar üzerinden AR görsellerini tarama
 
 ## Teknolojiler
+- **Unity** (Proje için)
 - **ARKit** (iOS için)
 - **ARCore** (Android için)
 - **Flutter** (Uygulama geliştirme)
