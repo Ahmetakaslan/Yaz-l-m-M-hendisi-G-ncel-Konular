@@ -33,13 +33,6 @@ indirin ve bu resmi taratın.
 <img src="https://github.com/user-attachments/assets/7a1a68f4-7e2a-4566-90b8-63601b1dcfcd" alt="Açıklama" width="500" height="500">
 <br>
 <br>
-<button onclick="document.getElementById('myImage').style.display='block'">
-    <img src="https://img.shields.io/badge/Resmi%20Aç-Göster-blue?style=for-the-badge&logo=google-chrome" alt="Resmi Göster" width="250" height="70">
-</button>
-
-<div id="myImage" style="display:none;">
-    <img src="https://github.com/user-attachments/assets/7a1a68f4-7e2a-4566-90b8-63601b1dcfcd" alt="Açıklama" width="500" height="500">
-</div>
 
 
 ## Proje Özellikleri
