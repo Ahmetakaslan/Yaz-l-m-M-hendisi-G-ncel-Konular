@@ -69,7 +69,7 @@ Projenin çalışabilmesi için aşağıdaki adımları takip edebilirsiniz:
 1. **OverlyApp** uygulamasını mobil cihazınıza indirin.
 2. Bu projeyi [GitHub'dan](https://github.com/ahmetakaslan/ARLabirentUygulaması) klonlayın.
 3. Web sitesine giriş yaparak AR deneyimini başlatın.
-4. Mobil cihaz üzerinden **OverlyApp** ile tarama işlemini gerçekleştirin.
+4. Mobil cihaz üzerinden **App** ile tarama işlemini gerçekleştirin.
 
 ## Katkı Sağlama
 Eğer bu projeye katkıda bulunmak isterseniz, lütfen önce **issues** sekmesinde bir öneri paylaşın ya da yeni bir **pull request** gönderin.
@@ -81,7 +81,6 @@ Proje ile ilgili sorularınız varsa, [Ahmet Akaslan](mailto:akaslan47yazilim@gm
 ---
 
 ### Projeye Dair Diğer Detaylar
-- Proje, **Flutter** ile geliştirilmiştir ve tüm mobil cihazlar üzerinde çalışabilir.
 - Kullanıcı, labirent içinde ilerlerken sanal engellerle karşılaşacak ve topu doğru yönlendirerek çıkışı bulmak zorunda kalacaktır.
 - Kullanıcılar başarılı bir şekilde çıkışı bulduklarında, skoru sistem üzerinden takip edebilir.
 
