@@ -14,7 +14,7 @@ Bu uygulamayı kullanabilmek için **OverlyApp**'i mobil cihazınıza indirmeniz
 
 ## Kullanmak için
 ## Qr Taratabilirsiniz
-<img src="https://github.com/user-attachments/assets/60c6121d-293b-4366-ba83-f87ddc127c93" width="500" height="300" alt="Görsel Açıklaması">
+<img src="https://github.com/user-attachments/assets/60c6121d-293b-4366-ba83-f87ddc127c93" width="500" height="500" alt="Görsel Açıklaması">
 
 Android için => [**buradan ulaşabilirsiniz**](https://play.google.com/store/apps/details?id=com.Overly.Cloud).  
 Apple için => [**buradan ulaşabilirsiniz**](https://apps.apple.com/lk/app/overly/id917343353).  
