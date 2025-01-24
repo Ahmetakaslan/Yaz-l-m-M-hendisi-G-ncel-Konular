@@ -13,6 +13,8 @@ Proje, **OverlyApp** gibi bir uygulama kullanılarak geliştirilmiştir. Uygulam
 Bu uygulamayı kullanabilmek için **OverlyApp**'i mobil cihazınıza indirmeniz gerekmektedir. Sonrasında, projenin web sitesine giriş yaparak kayıt olmalı ve ekranda görünen 2D görselleri **OverlyApp** üzerinden taratarak artırılmış gerçeklik deneyimini başlatabilirsiniz.
 
 ## Kullanmak için
+![qr-code](https://github.com/user-attachments/assets/44e45cb9-1842-4e3d-a8bb-a1f70b33cdc8)
+
 Android için => [**buradan ulaşabilirsiniz**](https://play.google.com/store/apps/details?id=com.Overly.Cloud).  
 Apple için => [**buradan ulaşabilirsiniz**](https://apps.apple.com/lk/app/overly/id917343353).  
 indirin ve bu resmi taratın.
