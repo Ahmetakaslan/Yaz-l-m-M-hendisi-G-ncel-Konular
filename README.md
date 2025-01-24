@@ -10,7 +10,9 @@ Bu proje, artırılmış gerçeklik (AR) kullanarak bir labirent oyununu oynanab
 
 ## Kullanmak için
 ## Qr Taratabilirsiniz
-Android için => 
+Android için =>
+<br>
+<br>
 <img src="https://github.com/user-attachments/assets/60c6121d-293b-4366-ba83-f87ddc127c93" width="500" height="500" alt="Görsel Açıklaması">
 
 ## Direkt indirmek için buttona tıklayabilirsiniz
