@@ -17,7 +17,7 @@ Android için =>
 <a href="https://github.com/Ahmetakaslan/Yazilim-Muhendisi-Guncel-Konular/releases/download/V1.1/GuncelKonularProje.apk">
     <img src="https://img.shields.io/badge/APK%20İndir-Download-blue?style=for-the-badge&logo=android" alt="İndir" width="250" height="70">
 </a>
-[![İndir](https://img.shields.io/badge/APK%20İndir-Download-blue?style=for-the-badge&logo=android)](https://github.com/Ahmetakaslan/Yazilim-Muhendisi-Guncel-Konular/releases/download/V1.1/GuncelKonularProje.apk)
+
 
 
 indirin ve bu resmi taratın.
